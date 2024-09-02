@@ -6,5 +6,6 @@ Un blog increíble para el curso de Git y Github de Platzi
 ## En este curso vemos de todo:
 - Todos los comandos de git
 - El flujo de trabajo en Github
+- Creado por el platziteam, para testear el cherry-pick
 
 Y como amable recordatorio: **Este readme.md**. Es un ejemplo diseñado para testear la herramienta. Cualquier cosa las notas del curso están en este [link](https://docs.google.com/document/d/1D2uxtorHRNLB4FkwjlZIpMtozKgBrB5uIY71SvIlnaU/edit?pli=1)
